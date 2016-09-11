@@ -1,0 +1,60 @@
+
+html {
+      height: 100%;
+    }
+    body {
+       width: 700px;
+       height: 100%;
+	background-image:url("https://i.ytimg.com/vi/-0AaLzXyTNw/maxresdefault.jpg");
+    }
+	.ptsd {
+		padding-top: 120px;
+ 	}
+	.sore {
+	}
+
+    header {
+        background-color: ;
+        padding: 5px;
+        font-size:30 ;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+        display: block;
+    }
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 10px 8px 18px;
+        vertical-align: left;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 25%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+	float: right;
+	vertical-align: right;
+    }
+    aside ul {
+        list-style-type: none;
+    }
